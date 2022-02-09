@@ -1,0 +1,11 @@
+Write a Python program to print biggest of two numbers.
+a=int(input('Enter a number: '))
+b=int(input('Enter a number: '))
+if a>b:
+   print(a)
+else:
+    print(b)
+Output:-
+Enter a number:16
+Enter a number:12
+16
